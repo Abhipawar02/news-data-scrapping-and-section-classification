@@ -26,4 +26,4 @@ This project scrapes news articles from a public news website, tags them using c
 - Both of notebooks could be find in /notebook directory
 
 ## Results
-- Inside /results-screenshots Directory
+- Inside /results-screenshots Directory[Result-1](https://i.pinimg.com/originals/11/0d/c9/110dc93458d24dcd93ff66e1fee7ed6e.jpg)
