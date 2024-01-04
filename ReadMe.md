@@ -20,7 +20,7 @@ This project scrapes news articles from a public news website, tags them using c
 ## Data Preprocessing and Model Training 
 - Explore the steps, refer to the [Scrapped News Data Preprocessing And Training](https://colab.research.google.com/drive/17MYgxXcOHpwXtmiXfDWiF0SLYy-m5BhW?usp=sharing)
 ## Model Evaluation
-![Evaluation Metrics](results-screenshots/evaluation_metrics.png)
+![Evaluation Metrics](https://github.com/Abhipawar02/news-data-scrapping-and-section-classification/blob/main/results-screenshots/evaluation_metrics.png)
 
 ### Note
 - Both of notebooks could be find in /notebook directory
